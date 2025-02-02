@@ -31,10 +31,12 @@ Install via:
 2. **Open** a terminal in the repository folder.
 3. **Run** the Python script:
 
+```python ising.py```
 
 
 or (if you modify it to accept command-line args):
 
+```python ising.py --N 50 --T 2.2 --steps 1000 --plot_interval 50```
 
 
 A Matplotlib window will appear, showing the spins (red/blue) as the simulation proceeds.
