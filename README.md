@@ -22,6 +22,7 @@ This repository contains a **2D Ising model** simulation implemented in Python. 
 
 Install via:
 
+```pip install numpy matplotlib```
 
 
 ## How to Run
